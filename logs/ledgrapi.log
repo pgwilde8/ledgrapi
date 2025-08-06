@@ -1,0 +1,29 @@
+{"timestamp": "2025-08-06 21:33:25", "level": "INFO", "name": "app.main", "message": "🚀 Starting LedgrAPI - Quant-Powered Web3 API Monetization Platform"}
+{"timestamp": "2025-08-06 21:33:25", "level": "INFO", "name": "app.main", "message": "Environment: development"}
+{"timestamp": "2025-08-06 21:33:25", "level": "INFO", "name": "app.main", "message": "Debug mode: False"}
+{"timestamp": "2025-08-06 21:36:06", "level": "INFO", "name": "app.main", "message": "🛑 Shutting down LedgrAPI"}
+{"timestamp": "2025-08-06 21:36:24", "level": "INFO", "name": "app.main", "message": "🚀 Starting LedgrAPI - Quant-Powered Web3 API Monetization Platform"}
+{"timestamp": "2025-08-06 21:36:24", "level": "INFO", "name": "app.main", "message": "Environment: development"}
+{"timestamp": "2025-08-06 21:36:24", "level": "INFO", "name": "app.main", "message": "Debug mode: False"}
+{"timestamp": "2025-08-06 21:39:01", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_START GET / client=127.0.0.1 user_agent=curl/7.81.0"}
+{"timestamp": "2025-08-06 21:39:01", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_END GET / status_code=200 process_time=0.0069s"}
+{"timestamp": "2025-08-06 21:39:05", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_START GET / client=71.104.62.84 user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp": "2025-08-06 21:39:05", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_END GET / status_code=400 process_time=0.0015s"}
+{"timestamp": "2025-08-06 21:39:06", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_START GET /favicon.ico client=71.104.62.84 user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp": "2025-08-06 21:39:06", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_END GET /favicon.ico status_code=400 process_time=0.0012s"}
+{"timestamp": "2025-08-06 21:39:08", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_START GET / client=71.104.62.84 user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp": "2025-08-06 21:39:08", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_END GET / status_code=400 process_time=0.0011s"}
+{"timestamp": "2025-08-06 21:39:08", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_START GET /favicon.ico client=71.104.62.84 user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp": "2025-08-06 21:39:08", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_END GET /favicon.ico status_code=400 process_time=0.0012s"}
+{"timestamp": "2025-08-06 21:39:39", "level": "INFO", "name": "app.main", "message": "🛑 Shutting down LedgrAPI"}
+{"timestamp": "2025-08-06 21:39:42", "level": "INFO", "name": "app.main", "message": "🚀 Starting LedgrAPI - Quant-Powered Web3 API Monetization Platform"}
+{"timestamp": "2025-08-06 21:39:42", "level": "INFO", "name": "app.main", "message": "Environment: development"}
+{"timestamp": "2025-08-06 21:39:42", "level": "INFO", "name": "app.main", "message": "Debug mode: False"}
+{"timestamp": "2025-08-06 21:40:01", "level": "INFO", "name": "app.main", "message": "🛑 Shutting down LedgrAPI"}
+{"timestamp": "2025-08-06 21:40:09", "level": "INFO", "name": "app.main", "message": "🚀 Starting LedgrAPI - Quant-Powered Web3 API Monetization Platform"}
+{"timestamp": "2025-08-06 21:40:09", "level": "INFO", "name": "app.main", "message": "Environment: development"}
+{"timestamp": "2025-08-06 21:40:09", "level": "INFO", "name": "app.main", "message": "Debug mode: False"}
+{"timestamp": "2025-08-06 21:40:14", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_START GET / client=71.104.62.84 user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp": "2025-08-06 21:40:14", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_END GET / status_code=200 process_time=0.0099s"}
+{"timestamp": "2025-08-06 21:40:14", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_START GET /favicon.ico client=71.104.62.84 user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp": "2025-08-06 21:40:14", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_END GET /favicon.ico status_code=404 process_time=0.0060s"}
