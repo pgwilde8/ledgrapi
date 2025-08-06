@@ -27,3 +27,19 @@
 {"timestamp": "2025-08-06 21:40:14", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_END GET / status_code=200 process_time=0.0099s"}
 {"timestamp": "2025-08-06 21:40:14", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_START GET /favicon.ico client=71.104.62.84 user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
 {"timestamp": "2025-08-06 21:40:14", "level": "INFO", "name": "app.core.middleware", "message": "REQUEST_END GET /favicon.ico status_code=404 process_time=0.0060s"}
+{"timestamp": "2025-08-06 23:52:41", "level": "INFO", "name": "app.main", "message": "🛑 Shutting down LedgrAPI"}
+{"timestamp": "2025-08-06 23:52:44", "level": "INFO", "name": "app.main", "message": "🚀 Starting LedgrAPI - Quant-Powered Web3 API Monetization Platform"}
+{"timestamp": "2025-08-06 23:52:44", "level": "INFO", "name": "app.main", "message": "Environment: development"}
+{"timestamp": "2025-08-06 23:52:44", "level": "INFO", "name": "app.main", "message": "Debug mode: False"}
+{"timestamp": "2025-08-06 23:55:22", "level": "INFO", "name": "app.main", "message": "🛑 Shutting down LedgrAPI"}
+{"timestamp": "2025-08-06 23:55:25", "level": "INFO", "name": "app.main", "message": "🚀 Starting LedgrAPI - Quant-Powered Web3 API Monetization Platform"}
+{"timestamp": "2025-08-06 23:55:25", "level": "INFO", "name": "app.main", "message": "Environment: development"}
+{"timestamp": "2025-08-06 23:55:25", "level": "INFO", "name": "app.main", "message": "Debug mode: False"}
+{"timestamp": "2025-08-06 23:55:26", "level": "INFO", "name": "app.main", "message": "🛑 Shutting down LedgrAPI"}
+{"timestamp": "2025-08-06 23:55:29", "level": "INFO", "name": "app.main", "message": "🚀 Starting LedgrAPI - Quant-Powered Web3 API Monetization Platform"}
+{"timestamp": "2025-08-06 23:55:29", "level": "INFO", "name": "app.main", "message": "Environment: development"}
+{"timestamp": "2025-08-06 23:55:29", "level": "INFO", "name": "app.main", "message": "Debug mode: False"}
+{"timestamp": "2025-08-06 23:55:43", "level": "INFO", "name": "app.main", "message": "🛑 Shutting down LedgrAPI"}
+{"timestamp": "2025-08-06 23:55:46", "level": "INFO", "name": "app.main", "message": "🚀 Starting LedgrAPI - Quant-Powered Web3 API Monetization Platform"}
+{"timestamp": "2025-08-06 23:55:46", "level": "INFO", "name": "app.main", "message": "Environment: development"}
+{"timestamp": "2025-08-06 23:55:46", "level": "INFO", "name": "app.main", "message": "Debug mode: False"}
